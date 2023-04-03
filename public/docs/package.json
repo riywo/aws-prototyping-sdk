@@ -48,6 +48,7 @@
       "@aws-prototyping-sdk/pdk-nag",
       "@aws-prototyping-sdk/pipeline",
       "@aws-prototyping-sdk/static-website",
+      "@aws-prototyping-sdk/type-safe-api",
       "aws-prototyping-sdk"
     ]
   },
